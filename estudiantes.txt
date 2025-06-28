@@ -1,0 +1,8 @@
+  24
+andres 12 14
+  24
+andres 12 19
+andres 100 15
+fer 1212 10
+amdrs 14 18
+  24
